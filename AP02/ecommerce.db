@@ -1,0 +1,4 @@
+2024-04-20T00:51:27,blockchain_transactions,_tag_customer_id,12051,_tag_product_id,1225,_tag_status,paid,_field_price,17.34,_field_discount,2.6
+2024-07-07T00:00:00,_default,_tag_customer_id,12828,_tag_product_id,1114,_tag_status,refunded,_field_price,4.679,_field_discount,0.0
+2024-07-07T00:00:00,_default,_tag_customer_id,12313,_tag_product_id,1414,_tag_status,refunded,_field_price,2.237,_field_discount,0.0
+2024-07-07T00:00:00,_default,_tag_customer_id,12117,_tag_product_id,1242,_tag_status,refunded,_field_price,3.876,_field_discount,0.0
